@@ -16,8 +16,8 @@ A passionate cybersecurity learner from Pakistan
 [LinkedIn](www.linkedin.com/in/balqees-asmat)
 
 Languages and Tools:
-Nmap 
-Burp Suite
-Brute Force Techniques
-Wireshark
-Linux Basics
+- Nmap
+- Burp Suite
+- Brute Force Techniques
+- Wireshark
+- Linux Basics
