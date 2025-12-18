@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Balqees Asmat
+A passionate cybersecurity learner from Pakistan
 
-<!--
-**balqees-asmat34/balqees-asmat34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+balqees-asmat34
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: TryHackMe (Junior Ethical Hacker path)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning: Windows Registry & basic system security
+
+👯 I’m looking to collaborate on: Cybersecurity projects
+
+📫 How to reach me: balqees.asmat@example.com
+
+Connect with me:
+[LinkedIn](your-linkedin-profile-link)
+
+Languages and Tools:
+Nmap | Burp Suite | Brute Force Techniques | Wireshark | Linux Basics
